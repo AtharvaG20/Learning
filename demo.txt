@@ -1,2 +1,4 @@
 Welcome to GIT demo
 Commit point 2
+Commit point 3
+Commit point 4
