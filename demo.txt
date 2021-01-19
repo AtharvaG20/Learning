@@ -1,1 +1,2 @@
 Welcome to GIT demo
+Commit point 2
